@@ -1,0 +1,21 @@
+{
+  "name": "broken-image",
+  "version": "0.0.1",
+  "description": "This is utility is to validate the broken images.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Vimukt Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "sync-request": "^4.1.0",
+    "yiewd": "^0.6.0",
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
