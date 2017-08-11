@@ -1,6 +1,6 @@
 Broken Image Validator
 =========
-A small library that checks image is loaded correctly or not.
+A small library that checks image is loaded correctly. I can be used for wd api{selenium} automation. 
 
 ## Installation
 
