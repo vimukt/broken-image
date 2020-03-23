@@ -15,4 +15,4 @@ var check = require('../index');
 
 ## Tests
 
-  `npm test`
+  `npm run test`
